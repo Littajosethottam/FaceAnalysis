@@ -40,8 +40,7 @@ the code successfully detects multiple images and lists it in excel,easy for com
 ## Contributing
 Feel free to fork this repository, submit issues, or suggest improvements.
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 
