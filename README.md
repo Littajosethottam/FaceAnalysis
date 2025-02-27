@@ -34,6 +34,8 @@ AD ID, Faces on Image, Age, Gender, Race, Image Path
 AD_001, 2, 25, Man, Asian, output_faces/AD_001_1_face_0.jpg
 AD_002, 1, 30, Woman, Caucasian, output_faces/AD_002_1_face_0.jpg
 ```
+###OUTPUT:
+ ![Image Alt](csv file.png)csv file.png
 
 ## Contributing
 Feel free to fork this repository, submit issues, or suggest improvements.
