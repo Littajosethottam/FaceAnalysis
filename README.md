@@ -43,6 +43,53 @@ Feel free to fork this repository, submit issues, or suggest improvements.
 
 
 ---
+## Citations:
 
+For Facial Recognition:
+
+@article{serengil2024lightface,
+  title     = {A Benchmark of Facial Recognition Pipelines and Co-Usability Performances of Modules},
+  author    = {Serengil, Sefik Ilkin and Ozpinar, Alper},
+  journal   = {Journal of Information Technologies},
+  volume    = {17},
+  number    = {2},
+  pages     = {95-107},
+  year      = {2024},
+  doi       = {10.17671/gazibtd.1399077},
+  url       = {https://dergipark.org.tr/en/pub/gazibtd/issue/84331/1399077},
+  publisher = {Gazi University}
+}
+
+@inproceedings{serengil2020lightface,
+  title        = {LightFace: A Hybrid Deep Face Recognition Framework},
+  author       = {Serengil, Sefik Ilkin and Ozpinar, Alper},
+  booktitle    = {2020 Innovations in Intelligent Systems and Applications Conference (ASYU)},
+  pages        = {23-27},
+  year         = {2020},
+  doi          = {10.1109/ASYU50717.2020.9259802},
+  url          = {https://ieeexplore.ieee.org/document/9259802},
+  organization = {IEEE}
+}
+
+For Facial Attribute Analysis:
+
+@inproceedings{serengil2021lightface,
+  title        = {HyperExtended LightFace: A Facial Attribute Analysis Framework},
+  author       = {Serengil, Sefik Ilkin and Ozpinar, Alper},
+  booktitle    = {2021 International Conference on Engineering and Emerging Technologies (ICEET)},
+  pages        = {1-4},
+  year         = {2021},
+  doi          = {10.1109/ICEET53442.2021.9659697},
+  url          = {https://ieeexplore.ieee.org/document/9659697},
+  organization = {IEEE}
+}
+
+
+For OpenCV:
+@article{opencv_library,
+  author = {Bradski, Gary},
+  title = {The OpenCV Library},
+  year = {2000},
+  journal
 
  
