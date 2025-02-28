@@ -43,7 +43,7 @@ Feel free to fork this repository, submit issues, or suggest improvements.
 
 
 ---
-## Citations:
+## Credit and  Citations:
 
 For Facial Recognition:
 
